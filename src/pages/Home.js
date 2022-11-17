@@ -11,10 +11,10 @@ function Home() {
                 <h2> Hi, My Name is Mohamed</h2>
                 <div className="prompt">
                     <p>A software developer with a passion for learning and creating.</p>
-                    <GithubIcon/>
-                    <TwitterIcon/>
-                    <LinkedInIcon/>
-                    <EmailIcon/>
+                    <a href='https://github.com/mohamedehn'><GithubIcon/></a>
+                    <a href='https://fr.linkedin.com/in/mohamed-ebarhmatin-376731179'><LinkedInIcon/></a>
+                    <a href='https://twitter.com/ehn_dev'><TwitterIcon/></a>
+                    <a href='mailto:mohamed.ebarhmatin@gmail.com'><EmailIcon/></a>
                 </div>
             </div>
             <div className="skills">
