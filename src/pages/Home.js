@@ -5,6 +5,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn"
 import EmailIcon from "@mui/icons-material/Email"
 
 function Home() {
+    
     return(
         <div className="home">
             <div className="about">

@@ -9,9 +9,9 @@ function Projects() {
         <div className="projects">
             <h1>My personal projects</h1>
             <div className="projectList">
-                {ProjectList.map((project)=>{
+                {ProjectList.map((project, idx)=>{
                     return (
-                    <ProjectItem name={project.name} image={project.image}/>
+                    <ProjectItem id={idx} name={project.name} image={project.image}/>
                     )
                 })}
             </div>
