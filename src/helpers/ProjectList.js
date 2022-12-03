@@ -2,7 +2,7 @@ import dns from "../assets/logoDNS.png"
 import kasa from "../assets/kasa.png"
 import booki from "../assets/Booki.png"
 import ohmyfood from "../assets/palette.png"
-import piiquante from "../assets/flame.webp"
+import piiquante from "../assets/flame.png"
 import kanap from "../assets/logo.png"
 import panthere from "../assets/panthere.png"
 

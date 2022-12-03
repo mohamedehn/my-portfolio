@@ -2,11 +2,16 @@ import {useParams} from "react-router-dom";
 import { ProjectList } from "../helpers/ProjectList";
 import GithubIcon from '@mui/icons-material/GitHub';
 import "../styles/ProjectDisplay.css"
+import { useEffect } from "react";
 
 function ProjectDisplay() {
 
     const {id} = useParams();
     const project = ProjectList[id];
+
+    useEffect(()=>{
+        window.scrollTo(0,0)
+    },[])
     
     return(
         <div className="project">
