@@ -9,7 +9,7 @@ function Home() {
     return(
         <div className="home">
             <div className="about">
-                <h2> Hi, Welcome to Digital Comet ! My Name is Mohamed</h2>
+                <h2>Welcome to Digital Comet ! <br/>My Name is Mohamed</h2>
                 <div className="prompt">
                     <p>I'm a frontend developer with a passion for learning and creating.</p>
                     <a href='https://github.com/mohamedehn'><GithubIcon/></a>
