@@ -11,7 +11,7 @@ export const ProjectList = [
     {
         name : 'Green Energy Solutions',
         image : ges,
-        skills : "React JS, CSS Sass, SEO",
+        skills : "REACT JS, CSS SASS, SEO",
         github : "https://github.com/mohamedehn/ges",
         website : "https://greenenergysolutions.fr",
         id :"1"
@@ -19,7 +19,7 @@ export const ProjectList = [
     {
         name : 'Data Network Solutions',
         image : dns,
-        skills : "HTML, CSS, SEO",
+        skills : "HTML, TAILWINDCSS, SEO, REACT JS",
         github : "https://github.com/mohamedehn/DNS",
         website : "https://datanetworksolutions.fr",
         id:"2"
@@ -27,7 +27,7 @@ export const ProjectList = [
     {
         name : 'Kasa',
         image : kasa,
-        skills : "React JS, Sass",
+        skills : "REACT JS, Sass",
         github : "https://github.com/mohamedehn/kasa",
         website : "https://mohamedehn.github.io/kasa/",
         id:"3"
